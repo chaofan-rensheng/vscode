@@ -68,7 +68,7 @@ Eslint  自动保存为eslint格式
 			"",
 			"<style lang=\"scss\" scoped>",
 			"",
-			"</style>"
+			"</style>"   
 		],
 		"description": "Base for Vue File"
 	}   
