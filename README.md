@@ -31,47 +31,8 @@ koroFileHeader   添加函数注释
 Eslint  自动保存为eslint格式
 
 ### 自定义代码片段
-"Print to console": {
-		"prefix": "v",
-		"body": [
-			"<template>",
-			"\t<div class=\"name\">",
-			"\t\t${0}",
-			"\t</div>",
-			"</template>",
-			"",
-			"<script>",
-			"\texport default {",
-			"\t\tname: 'name',",
-			"\t\tcomponents: {",
-			"",
-			"\t\t},",
-			"\t\tprops: {",
-			"",
-			"\t\t},",
-			"\t\tdata() {",
-			"\t\t\treturn{",
-			"\t\t\t",
-			"\t\t\t}",
-			"\t\t},",
-			"\t\tcomputed: {",
-			"",
-			"\t\t},",
-			"\t\tmounted() {",
-			"",
-			"\t\t},",
-			"\t\tmethods: {",
-			"",
-			"\t\t}",
-			"\t}",
-			"</script>",
-			"",
-			"<style lang=\"scss\" scoped>",
-			"",
-			"</style>"   
-		],
-		"description": "Base for Vue File"
-	}   
+[自定义代码片段](https://github.com/chaofan-rensheng/vscode/blob/master/vue.json)
+	 
 
 
 
