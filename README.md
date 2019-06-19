@@ -29,6 +29,7 @@
 ##### Path Autocomplete 路径提示
 ##### koroFileHeader   添加函数注释
 ##### Eslint  自动保存为eslint格式
+##### Beautify 格式化压缩的css代码
 ##### setting sync  将vscode设置托管到github
 
 ### 自定义代码片段
